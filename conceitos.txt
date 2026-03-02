@@ -1,0 +1,5 @@
+1 URL:É um endereço web completo de um recurso na internet
+2 http: é um protocolo de comunicação para transferências de informação na word wide  web "www"
+3 tcp: protocolo de comando de transmissão que trabalha junto ao ip
+4 ip: endereço numérico exclusivo
+5 dns: é uma espécie de lista telefônica,é um sistema essencial para funcionamento da internet 
